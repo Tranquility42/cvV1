@@ -56,3 +56,6 @@ progress::-webkit-progress-value {
 progress::-webkit-progress-bar {
 	background: rgb(132, 132, 133);
 }
+.col img {
+    margin: 15px 0;
+}
